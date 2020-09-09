@@ -2,7 +2,7 @@ package model
 
 import "testing"
 
-// Testing ...
+// TestUser ...
 func TestUser(t *testing.T) *User {
 	return &User{
 		Email:    "user@example.org",
